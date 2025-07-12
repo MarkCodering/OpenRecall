@@ -1,0 +1,1 @@
+uv run mcp install openrecall/main.py --name "OpenRecall" 
