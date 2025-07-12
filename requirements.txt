@@ -1,1 +1,7 @@
 mcp[cli]
+langchain-docling
+langchain_community 
+pypdf
+langchain-openai
+langchain-chroma
+dotenv
